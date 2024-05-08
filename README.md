@@ -2,11 +2,11 @@
 
 ###### ✍️แก้ไขเมื่อ : 07/03/2567
 
-###### 👨‍💻ผู้จัดทำ : Tarit, Adisak
+###### 👨‍💻ผู้จัดทำ : Tharit, Adisak
 
 ---
 
-เป็นโปรเจ็คจบปริญญาตรี ที่ทำขึ้นมาด้วย PHP (MySQLi) สามารถดูตัวอย่างเว็บไซต์ได้ [ที่นี่](https://github.com/Adisak-KS/Project-Website-OTOP/tree/main/preview_otop)
+เป็นโปรเจ็คจบปริญญาตรี ที่ทำขึ้นมาด้วย PHP (MySQLi) สามารถดูตัวอย่างเว็บไซต์ได้ [ที่นี่](https://github.com/Adisak-KS/Project-Website-Bookstore/tree/main/previews_bookstore/img) หรือ ไฟล์รายงาน PDF [ที่นี่](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/Document/00_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf)
 
 ---
 
@@ -124,7 +124,7 @@
 
 ### 📥วิธีติดตั้งเว็บไซต์
 
-    1. นำ Database ในโฟลเดอร์ Database/bookstore.sql ไปติดตั้งใน Wamp หรือ Xampp
+    1. นำ Database ในโฟลเดอร์ Database/bookstore.sql ไปติดตั้งใน Wamp หรือ Xampp [คลิก]
     2. นำ โฟลเดอร์ bookstore ไปวางไว้ภายในเครื่องตนเอง
     3. หากมี Error เกี่ยวกับ Database ให้ตรวจสอบที่ connection.php ที่ username หรือ password
 
@@ -155,102 +155,22 @@
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-**ของผู้ดูแลระบบ (Admin)**
-
-1. หน้า Login เข้าสู่ระบบ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/01_login_admin.png)
-
-2. หน้าแรกของผู้ดูแลระบบ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/02_index.png)
-
-3. หน้าแสดงข้อมูลสมาชิก
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/03_member_Show.png)
-
-4. หน้าแสดงช่องทางชำระเงิน
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/04_payment.png)
-
-5. หน้าแสดงข้อมูลสินค้า
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/05_product_show.png)
-
-6. หน้าแก้ไขข้อมูลสินค้า
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/06_product_edit.png)
-
-7. Sweetalert2 เมื่อเพิ่ม ลบ แก้ไข สำเร็จ/ไม่สำเร็จ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/07_sweetalert.png)
-
-8. หน้าลบข้อมูลสินค้า
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/08_delete_product.png)
-
-9. หน้าแสดงรายการสั่งซื้อ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/09_order_show.png)
-
-10. หน้าตรวจสอบและอัปเดทรายการสั่งซื้อ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/10_order_edit.png)
-
-11. หน้าแสดงรายการที่รอจัดส่ง
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/11_deliverly_edit_form.png)
-
----
-
-**ของสมาชิก & ผู้ใช้ทั่วไป(Member & User)**
-
 1. หน้าแรกของเว็บไซต์
-   ![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/01_index.png)
 
-2. หน้าสมัครสมาชิก
+![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/01_index.png)
 
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/02_register.png)
+2. หน้าตะกร้าสินค้า
 
-3. หน้า Login เข้าสู่ระบบ
+![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/06_wishlist.png)
 
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/03_login.png)
+3. หน้าบัญชีของฉัน
 
-4. หน้าแสดงสินค้าทั้งหมด
+![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/06_wishlist.png)
 
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/04_products_show.png)
+4. หน้าแรกของผู้ดูแลระบบ
 
-5. หน้าแสดงรายละเอียดสินค้าแต่ละรายการ
+![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/admin/07_index_admin.png)
 
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/05_product_detail.png)
+5. หน้าตั้งค่าเว็บไซต์
 
-6. หน้าติดต่อเรา
-   ![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/06_contact.png)
-
-7. หน้าแสดงสินค้าทั้งหมด
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/05_product_detail.png)
-
-8. หน้าจัดการบัญชีของฉัน
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/07_my_account_setting.png)
-
-9. หน้าตะกร้าสินค้า
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/08_cart_show.png)
-
-10. หน้าอัปโหลดหลักฐานการชำระเงิน
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/10_upload_slip.png)
-
-11. หน้าแสดงประวัติสั่งซื้อสินค้า
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/11_history_order.png)
-
-12. หน้า Confirm ยกเลิกรายการสั่งซื้อ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/12_history_order_confirm_cancel.png)
-
-13. หน้าแสดงรายละเอียดประวัติการสั่งซื้อแต่ละรายการ
-
-![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/13_history_order_detail.png)
+![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/admin/12_setting_web.png)

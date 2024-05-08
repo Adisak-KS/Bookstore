@@ -109,7 +109,7 @@
         2. CSS
         3. JavaScript
         4. Bootstrap5
-        5. PHP (PDO)
+        5. PHP (MySQLi)
         6. MySQL
         9. DataTables
 

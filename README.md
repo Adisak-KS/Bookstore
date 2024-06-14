@@ -156,20 +156,20 @@
 
 1. หน้าแรกของเว็บไซต์
 
-![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/01_index.png)
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/member/01_index.png)
 
 2. หน้าตะกร้าสินค้า
 
-![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/06_wishlist.png)
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/member/06_cart.png)
 
 3. หน้าบัญชีของฉัน
 
-![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/member/06_wishlist.png)
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/member/05_my_account.png
 
 4. หน้าแรกของผู้ดูแลระบบ
 
-![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/admin/07_index_admin.png)
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/admin/02_index.png)
 
 5. หน้าตั้งค่าเว็บไซต์
 
-![index](https://github.com/Adisak-KS/Project-Website-Bookstore/blob/main/previews_bookstore/img/admin/12_setting_web.png)
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/admin/12_setting_web.png)

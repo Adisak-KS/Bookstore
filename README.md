@@ -164,7 +164,7 @@
 
 3. หน้าบัญชีของฉัน
 
-![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/member/05_my_account.png
+![index](https://github.com/Adisak-KS/Project-Thesis-Website-Bookstore/blob/main/previews_bookstore/img/member/05_my_account.png)
 
 4. หน้าแรกของผู้ดูแลระบบ
 
